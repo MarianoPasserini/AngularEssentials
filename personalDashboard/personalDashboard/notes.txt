@@ -1,0 +1,1 @@
+- Hasta ahora creamos la navbar con sus respectivos items que en un futuro van a redirigir a esas paginas. Main concern es como hacer un dashboard por ahora.
